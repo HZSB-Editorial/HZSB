@@ -1,4 +1,5 @@
 module.exports = {
     title: 'HZSB',
-    description: 'HZSB'
+    description: 'HZSB',
+    dest: './dist'
 }
