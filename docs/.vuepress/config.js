@@ -6,7 +6,10 @@ module.exports = {
         displayAllHeaders: true,
         nav: [
             { text: '首页', link: '/' },
-            { text: '文章', link: '/article/' }
+            { text: '版块1', link: '/demo/' },
+            { text: '版块2', link: '/demo/' },
+            { text: '版块3', link: '/demo/' },
+            { text: '版块4', link: '/demo/' }
         ]
     },
     plugins: [
@@ -25,7 +28,7 @@ module.exports = {
               s.parentNode.insertBefore(hm, s);
             })();
             `
-        ]
+        ],
     ]
 }
 
