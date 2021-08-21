@@ -1,6 +1,6 @@
 module.exports = {
     title: 'HZSB',
-    description: 'HZSB',
+    description: '揭露某超级中学做过的恶事',
     dest: './dist',
     themeConfig: {
         displayAllHeaders: true,
