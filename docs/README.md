@@ -5,13 +5,13 @@ heroText: HZSB
 tagline: 关于衡中：驳斥，曝光，记录，批判
 actionText: 查看文章
 actionLink: /guide.html
-# features:
-# - title: 简洁至上
-#   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-# - title: Vue驱动
-#   details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-# - title: 高性能
-#   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+features:
+- title: 关于衡中
+  details: 衡水中学是河北省一所知名高中，广义的衡中指河北衡水中学（公办高中）、衡水第一中学（民办高中）、衡水中学实验学校（民办初高中）、 衡水滏阳中学（民办高中），四个校区；狭义的衡中仅指河北衡水中学。
+- title: 四校区区别
+  details: 四个校区在管理、资料、考试、教学安排上是统一的，教师每学年轮换一次。不同校区的区别在于生源、管理细节、硬件条件等。
+- title: 本站初衷
+  details: 我们在这里对衡中部分官方文章进行批驳，记录衡中做过的恶事，留存截屏和当事人叙述证据，记录衡中生活细节，批判一些不合理的理念和制度。让大家对衡中有多方面的了解和思考。
 footer: 本站文章采用 CC-BY-NC-ND 4.0 协议 进行许可 | 版权所有 © 2021-现在 HZSB编辑组
 ---
 
