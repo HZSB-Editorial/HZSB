@@ -1,13 +1,5 @@
-# 示例文章1
+# 示例文章1 - REFUTE
 
-![LOGO](/logo.png)
-
-**粗体**
-
-*斜体*
-
-[首页](/)
-
-<div v-for="i in 100">
-    <p>{{ i }}</p>
-</div>
+<p v-for="i in 6">
+{{ "refute".substr(6 - i, 6) + "refute".substr(0, 6 - i) }}
+</p>
