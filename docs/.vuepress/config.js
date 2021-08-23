@@ -18,7 +18,7 @@ module.exports = {
     plugins: {
         '@vuepress/back-to-top': {},
         '@vuepress/last-updated': {
-            transformer: timestamp => moment(timestamp).fromNow()
+            transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
         }
     },
     head: [

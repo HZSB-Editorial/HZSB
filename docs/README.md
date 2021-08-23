@@ -4,7 +4,7 @@ heroImage: https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/logo.png
 heroText: HZSB
 tagline: 关于衡中：曝光，记录，驳斥，批判
 actionText: 查看文章
-actionLink: /#大事记录
+actionLink: /#内容
 features:
 - title: 关于衡中
   details: 衡水中学是河北省一所知名高中，广义的衡中指河北衡水中学（公办高中）、衡水第一中学（民办高中）、衡水中学实验学校（民办初高中）、 衡水滏阳中学（民办高中），四个校区；狭义的衡中仅指河北衡水中学。
@@ -15,6 +15,7 @@ features:
 footer: 本站文章采用 CC-BY-NC-ND 4.0 协议 进行许可 | 版权所有 © 2021-现在 HZSB编辑组
 ---
 
+## 内容
 ### [大事记录](/event/)
 
 这里记录与衡中有关的，已经引起广泛关注的事件。您将看到这些重要事件的来龙去脉。
