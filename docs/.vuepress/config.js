@@ -1,15 +1,15 @@
 module.exports = {
     title: 'HZSB',
-    description: '揭露某超级中学做过的恶事',
+    description: '关于衡中：曝光，记录，驳斥，批判',
     dest: './dist',
     themeConfig: {
         displayAllHeaders: true,
         nav: [
             { text: '首页', link: '/' },
-            { text: '版块1', link: '/demo/' },
-            { text: '版块2', link: '/demo/' },
-            { text: '版块3', link: '/demo/' },
-            { text: '版块4', link: '/demo/' }
+            { text: '大事记录', link: '/event/' },
+            { text: '学校生活', link: '/campus/' },
+            { text: '官方洗白文批驳', link: '/refute/' },
+            { text: '制度批判与高层内幕', link: '/system/' }
         ]
     },
     plugins: [
@@ -31,4 +31,3 @@ module.exports = {
         ],
     ]
 }
-
