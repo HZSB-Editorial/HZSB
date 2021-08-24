@@ -1,4 +1,4 @@
-# 教师景某怂恿学生作弊事件
+# 景某事件
 
 ## 事件概述
 
@@ -14,7 +14,7 @@
 
 高二下学期，景某老师向学生泄露考点, 怂恿学生李某考试作弊。*目的为获得个人业绩*（存疑）。
 
-![学校处理景某相关文件](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/3771f62aeb222b88a51e201d640bbed7.png)
+![学校处理景某相关文件](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/3771f62aeb222b88a51e201d640bbedhttps://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/80f81b7d2056c4324f287ecbe5db47ad.png)
 
 *学校处理景某相关文件*
 
@@ -51,3 +51,7 @@
 ### 辞职
 
 2021 年 3 月，景某老师因受校方压力，主动辞职。
+
+![1]
+
+[1]: https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/3771f62aeb222b88a51e201d640bbedhttps://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/80f81b7d2056c4324f287ecbe5db47ad.png
