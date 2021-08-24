@@ -106,7 +106,7 @@
 
 ![微博热搜](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/f41726d64aa666bac3866a3b88c7d69e.jpg)
 
-*8月22日零时新浪微博热搜*
+*8月22日0时新浪微博热搜*
 
 ![知乎热榜](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/53f5b6ec267d011364ddc043266364e1.jpg)
 
@@ -118,7 +118,7 @@
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/be37468c71f07d4da1cc651fd14ae96e.jpg)
 
-8月19日9点左右, 该问题被移出知乎热榜。
+8月19日上午9点左右, 该问题被移出知乎热榜。
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/863ea74ad390732579e8996b2c242ef7.jpg)
 
