@@ -47,6 +47,7 @@
 
 
 ![微博截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/95a945c3e051e3002dbecd3155e5e2d5.png)
+
 *微博截图(2021年8月23日23:00)*
 
 
@@ -56,10 +57,12 @@
 
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/0c4a5cc578df03cf65877d9e6643fe3b.png)
+
 *本图片来源可靠。*
 
 
 更有意思的是，郗会锁校长儿子郗某也在此班就读。
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/f1b79692e1d9bc274d3d319b258884bf.png)
+
 *本图片来源可靠。*
