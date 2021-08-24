@@ -1,5 +1,6 @@
 # 郗会锁儿子高考移民事件
 
+[[toc]]
 ## 前言
 
 近日，有人发帖举报衡水中学校长郗会锁之子郗某某赴西藏报名高考，被指“高考移民”。本文记录此事件。
@@ -11,9 +12,8 @@
 郗会锁之子（下称“郗某某”）为西藏户籍，高中在衡水中学就读，在校期间获得大量荣誉。
 
 [郗某某在衡中的演讲视频（哔哩哔哩）](https://www.bilibili.com/video/av843877334/)
-<details>
 
-<summary>衡水中学官方对郗某某在校所得荣誉的部分报道与部分截图:</summary>
+::: details 衡水中学官方对郗某某在校所得荣誉的部分报道与部分截图
 
 [衡水中学 | 2018年度人物](https://mp.weixin.qq.com/s/pOz9yWpj5QuMl8n9UVUCGQ)
 
@@ -32,7 +32,7 @@
 ![报道5](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/112073bdf48a3fb3980035743ef4c2ae.png)
 ![报道6](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/932889c1c87fd5a2dda72d710f1d3307.png)
 
-</details>
+:::
 
 经举报，郗某某因在2021年违规报考西藏地区高考，被西藏教育考试院取消高考成绩。
 
@@ -134,13 +134,11 @@
 
 [卓越名校学术联盟的回应](https://mp.weixin.qq.com/s/dCjAEOjqRZGeyO3eH7JxKA)
 
-<details>
-
-<summary>衡水共青团的回应（现已被删除）:</summary>
+::: details 衡水共青团的回应（现已被删除）
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/651065c4ae0e9615fbd53bf786e19d94.png)
 
-</details>
+:::
 
 ## “太子班”
 
@@ -152,9 +150,7 @@
 
 但是，笔者仍然在调查中得到了一些信息。
 
-<details>
-
-<summary>查找“太子班”的部分过程:</summary>
+::: details 查找“太子班”的部分过程
 
 首先，通过“学生照片显示”功能，发现最多只能查询到915班的信息（见下图）。
 
@@ -184,4 +180,4 @@
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/9d8597ba845527aa964c211367cc6bad.png)
 
-</details>
+:::

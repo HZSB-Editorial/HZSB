@@ -51,7 +51,3 @@
 ### 辞职
 
 2021 年 3 月，景某某老师因受校方压力，主动辞职。
-
-![1]
-
-[1]: https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/3771f62aeb222b88a51e201d640bbed7.png

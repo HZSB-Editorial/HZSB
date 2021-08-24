@@ -4,13 +4,11 @@
 
 网友在[知乎](https://www.zhihu.com/question/465486182)上曝光， 衡水中学教师张欢欢涉嫌骚扰、猥亵、诱奸女学生。 
 
-<details>
-
-<summary>关键回答截图(2021年8月23日23:10)</summary>
+::: details 关键回答截图(2021年8月23日23:10)
 
 ![知乎截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/121c4b7e5b99cce32df027d3e68b3906.png)
 
-</details>
+:::
 
 此问题下， 多名答主以匿名身份曝光张欢欢言行， 有人以聊天记录作为证据。 激起了网友们的愤慨， 并在微博上引起一定反响。
 
@@ -20,13 +18,11 @@
 
 张欢欢事件最早在 2021年6月17日在知乎上曝光。 
 
-<details>
-
-<summary>知乎截图</summary>
+::: details 知乎截图
 
 ![知乎截图2](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/14e69a9bc069573fe8b88949cc431f02.png)
 
-</details>
+:::
 
 和时间相近的郗会锁事件(2021年8月23日)并没有直接联系， 但郗会锁事件的广泛关注推动了张欢欢事件热度上升。
 
