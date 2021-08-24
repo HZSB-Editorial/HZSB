@@ -24,7 +24,7 @@
 
 <summary>知乎截图</summary>
 
-![知乎截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/14e69a9bc069573fe8b88949cc431f02.png)
+![知乎截图2](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/14e69a9bc069573fe8b88949cc431f02.png)
 
 </details>
 
