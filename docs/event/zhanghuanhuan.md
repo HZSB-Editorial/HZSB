@@ -31,60 +31,35 @@
 和时间相近的郗会锁事件(2021年8月23日)并没有直接联系， 但郗会锁事件的广泛关注推动了张欢欢事件热度上升。
 
 
-<details>
-
-<summary>百度指数</summary>
-
 ![百度指数](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/d267c84822030af5c6cf68d3f54b08e6.png)
-
-</details>
 
 ### 2. 爆红
 
 8月21日左右， 网友们对于此事件的关注度提升。
 
-<details>
-
-<summary>百度指数</summary>
-
 ![百度指数2](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/902d855b0186994504a3b0cd690bc0f2.png)
-
-</details>
 
 此事件并没有同郗会锁事件一样登上热搜，但在微博上也引起了很大反响。
 
 [微博链接](https://weibo.com/7584844316/KuBkkqMIn?refer_flag=1001030103_&type=comment#_rnd1629727883419)
 
-<details>
 
-<summary>微博截图(2021年8月23日23:00)</summary>
+
 
 ![微博截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/95a945c3e051e3002dbecd3155e5e2d5.png)
+*微博截图(2021年8月23日23:00)*
 
-</details>
 
 ### 3. 有趣的细节
 
 目前网上已经爆出张欢欢现任衡水中学 19325 班历史教师。经笔者确认，该消息属实。
 
-<details>
-
-<summary>图片证据</summary>
-
-本图片来源可靠。
 
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/0c4a5cc578df03cf65877d9e6643fe3b.png)
+*本图片来源可靠。*
 
-</details>
 
 更有意思的是，郗会锁校长儿子郗某也在此班就读。
 
-<details>
-
-<summary>图片证据</summary>
-
-本图片来源可靠。
-
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/f1b79692e1d9bc274d3d319b258884bf.png)
-
-</details>
+*本图片来源可靠。*
