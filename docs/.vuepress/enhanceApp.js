@@ -17,7 +17,6 @@ export default ({
         const reg = new RegExp(this.$route.path + ".+\\.html")
         for (const i of this.$site.pages.sort((a, b) => a.title < b.title ? -1 : 1)) {
             if (reg.test(i.path)) {
-                console.log(i)
                 result.push(i)
             }
         }

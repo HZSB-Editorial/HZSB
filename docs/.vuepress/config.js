@@ -17,6 +17,7 @@ module.exports = {
         ]
     },
     plugins: {
+        '@vuepress/medium-zoom': {},
         '@vuepress/back-to-top': {},
         '@vuepress/last-updated': {
             transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
