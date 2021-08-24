@@ -8,7 +8,7 @@
 
 <summary>关键回答截图(2021年8月23日23:10)</summary>
 
-![知乎截图](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/zhanghuanhuan/121c4b7e5b99cce32df027d3e68b3906.png)
+![知乎截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/121c4b7e5b99cce32df027d3e68b3906.png)
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <summary>知乎截图</summary>
 
-![知乎截图](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/zhanghuanhuan/14e69a9bc069573fe8b88949cc431f02.png)
+![知乎截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/14e69a9bc069573fe8b88949cc431f02.png)
 
 </details>
 
@@ -35,7 +35,7 @@
 
 <summary>百度指数</summary>
 
-![百度指数](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/zhanghuanhuan/d267c84822030af5c6cf68d3f54b08e6.png)
+![百度指数](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/d267c84822030af5c6cf68d3f54b08e6.png)
 
 </details>
 
@@ -47,7 +47,7 @@
 
 <summary>百度指数</summary>
 
-![百度指数2](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/zhanghuanhuan/902d855b0186994504a3b0cd690bc0f2.png)
+![百度指数2](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/902d855b0186994504a3b0cd690bc0f2.png)
 
 </details>
 
@@ -59,7 +59,7 @@
 
 <summary>微博截图(2021年8月23日23:00)</summary>
 
-![微博截图](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/zhanghuanhuan/95a945c3e051e3002dbecd3155e5e2d5.png)
+![微博截图](https://hzsb-1301539318.file.myqcloud.com/docs/event/zhanghuanhuan/95a945c3e051e3002dbecd3155e5e2d5.png)
 
 </details>
 

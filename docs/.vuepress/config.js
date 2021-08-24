@@ -22,7 +22,7 @@ module.exports = {
         }
     },
     head: [
-        ['link', { rel: 'icon', href: `https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/logo.png` }],
+        ['link', { rel: 'icon', href: `https://hzsb-1301539318.file.myqcloud.com/logo.png` }],
         [
             "script",
             {},
