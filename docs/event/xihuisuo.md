@@ -92,12 +92,19 @@
 
 *8月22日零时新浪微博热搜*
 
+![知乎热榜](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/53f5b6ec267d011364ddc043266364e1.jpg)
+
+*知乎热榜*
+
 ## 热搜消失
 
 该话题一度位于新浪微博热搜榜前列。**然而在8月19日早晨8点左右，该热搜消失。据查证，不仅热搜前十中没有，热搜前五十也没有**。
 
-
 ![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/be37468c71f07d4da1cc651fd14ae96e.jpg)
+
+8月19日9点左右, 该问题被移出知乎热榜。
+
+![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/863ea74ad390732579e8996b2c242ef7.jpg)
 
 ## 官方回应
 
