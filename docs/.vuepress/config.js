@@ -3,7 +3,7 @@ moment.tz.setDefault("Asia/Shanghai")
 moment.locale('zh-cn')
 module.exports = {
     title: 'HZSB',
-    description: '关于衡中：曝光，记录，驳斥，批判',
+    description: '关于衡中：曝光、记录、驳斥、批判。',
     dest: './dist',
     themeConfig: {
         lastUpdated: '上次更新',
