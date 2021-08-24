@@ -8,3 +8,43 @@
 
 ### 多人反映教学质量低
 
+经多名他教的同学反映，其教学质量低下，*上课只是念学案*（来源存疑），主观认为他的课收获不大。
+
+### 怂恿学生考试作弊
+
+在高二下学期，景DS老师怂恿其学生李WH考试作弊。*目的疑似为获得个人业绩*（来源存疑）。
+
+![学校处理景DS相关文件](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/jingds/1.png)
+*学校处理景DS相关文件*
+
+<details>
+
+<summary>被怂恿的学生写的证明材料</summary>
+
+![被怂恿的学生写的证明材料](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/jingds/2.png)
+**
+
+</details>
+
+### 体罚语罚学生
+
+多次与学生发生肢体冲突，具体事件如下：
+
+ - > 自己曾在上课时因一小事而发生冲突，上课时一件小事表现不到位而被叫出教室。
+ - > 我去给他班送资料，敲门进去，他正在讲课，把我骂出来了。
+ - 某天化学晚自习，与一学生因不交积累本发生口角，甚至揪住学生衣领发生肢体冲突。辱骂声整个楼道听得见。
+
+![学校相关文件](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/jingds/3.png)
+*学校相关文件*
+
+### 其他事实及材料
+
+![工作态度不端正，与其他老师发生冲突](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/jingds/4.png)
+*工作态度不端正，与其他老师发生冲突*
+
+![学校相关文件](https://hzsb-1301539318.cos.ap-beijing.myqcloud.com/docs/event/jingds/5.png)
+*学校相关文件*
+
+### 辞职
+
+景DS老师于 2021 年 3 月受校方压力，主动辞职。
