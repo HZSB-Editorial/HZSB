@@ -60,6 +60,14 @@
 
 同时，郗某某出现了人籍分离的情况。即其为西藏学籍，但高中一直在衡水中学就读。上文列举的大量荣誉可以证明这一点。
 
+以下为澎湃新闻对此事报道的截图：
+
+![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/1.png)
+
+![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/2.jpg)
+
+[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14099164)
+
 ## 校内成绩异常模拟
 
 下图为郗某某历次考试的成绩单。
