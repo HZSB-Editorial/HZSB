@@ -37,6 +37,14 @@ module.exports = {
             s.parentNode.insertBefore(hm, s);
             })();
             `
+        ],
+        [
+            'script',
+            { src: 'https://unpkg.com/@popperjs/core@2' }
+        ],
+        [
+            'script',
+            { src: 'https://unpkg.com/tippy.js@6' }
         ]
     ]
 }
