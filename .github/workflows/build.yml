@@ -36,4 +36,4 @@ jobs:
         run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
         
       - name: Upload
-        run: coscmd upload --delete -f ./site_update.zip /
+        run: coscmd upload --delete -f ./dist/site_update.zip /
