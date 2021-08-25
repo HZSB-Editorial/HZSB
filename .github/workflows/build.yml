@@ -1,6 +1,7 @@
 name: Build VuePress Static Pages
 
 on:
+    workflow_dispatch:
     push:
         branches: main
     pull_request:
@@ -18,9 +19,13 @@ jobs:
           yarn
           yarn docs:build
           
+      - name: Copy Workflow to Dist
+        run: |
+          mkdir ./dist/.github/workflows/
+          cp ./.github/workflows/upload.yml ./dist/.github/workflows/
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-page
           folder: dist
- 
