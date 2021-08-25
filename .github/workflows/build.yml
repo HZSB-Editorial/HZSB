@@ -21,7 +21,7 @@ jobs:
           
       - name: Copy Workflow to Dist
         run: |
-          mkdir ./dist/.github/workflows/
+          mkdir -p ./dist/.github/workflows/
           cp ./.github/workflows/upload.yml ./dist/.github/workflows/
 
       - name: Deploy 🚀
