@@ -21,8 +21,8 @@ jobs:
         env:
           SECRET_ID: ${{ secrets.SecretId }}
           SECRET_KEY: ${{ secrets.SecretKey }}
-          BUCKET: docs-1300533487
-          REGION: ap-shanghai
+          BUCKET: hzsb-site-1301539318
+          REGION: ap-hongkong
         run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
       - name: Upload
         run: coscmd upload -rs --delete -f ./dist / --ignore "./.git/*"
