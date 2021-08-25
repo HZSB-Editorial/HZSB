@@ -84,4 +84,4 @@ Markdown 是一种轻量级标记语言。它允许人们使用易读易写的�
 
 ## 投稿
 
-请将文件作为附件，发送邮件到 [sbhszx@hotmail.com](mailto:sbhszx@hotmail.com)。
+请将文件作为附件，发送邮件到 [contact@hzsb.info](mailto:contact@hzsb.info)。

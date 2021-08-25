@@ -34,4 +34,4 @@ footer: 本站文章采用 CC-BY-NC-ND 4.0 协议 进行许可 | 版权所有 ©
 
 ## 投稿
 
-我们欢迎您对我们的任何方面[提出建议](mailto:sbhszx@hotmail.com)，如果您有意对此网站做出更多贡献，请阅读[投稿前须知](./contribute.md)。
+我们欢迎您对我们的任何方面[提出建议](mailto:contact@hzsb.info)，如果您有意对此网站做出更多贡献，请阅读[投稿前须知](./contribute.md)。
