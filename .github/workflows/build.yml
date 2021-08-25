@@ -15,14 +15,9 @@ jobs:
         run: |
           yarn
           yarn docs:build
-      - name: Install coscmd
-        run: sudo pip install coscmd
-      - name: Configure coscmd
-        env:
-          SECRET_ID: ${{ secrets.SecretId }}
-          SECRET_KEY: ${{ secrets.SecretKey }}
-          BUCKET: hzsb-site-1301539318
-          REGION: ap-hongkong
-        run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
-      - name: Upload
-        run: coscmd upload -rs --delete -f ./dist/* /
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-page
+          folder: dist
+ 
