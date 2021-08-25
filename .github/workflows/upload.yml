@@ -1,6 +1,7 @@
 name: Upload Dist To Tencent COS
 
 on:
+    workflow_dispatch:
     push:
         branches: gh-page
     pull_request:
