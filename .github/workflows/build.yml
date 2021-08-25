@@ -19,21 +19,11 @@ jobs:
           yarn
           yarn docs:build
           
-#       - name: Copy Workflow to Dist
-#         run: |
-#           mkdir -p ./dist/.github/workflows/
-#           cp ./.github/workflows/upload.yml ./dist/.github/workflows/
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: gh-page
-          folder: dist
-          
-      - name: Upload to COS
-        run: |
-          git checkout -B gh-page origin/gh-page
-          sudo pip install coscmd
+      - name: Zip the Dist
+        run: zip -r -1 site_update.zip ./dist/
+      
+      - name: Install coscmd
+        run: sudo pip install coscmd
           
       - name: Configure coscmd
         env:
@@ -44,4 +34,4 @@ jobs:
         run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
         
       - name: Upload
-        run: coscmd upload -rs --delete -f ./ /
+        run: coscmd upload --delete -f ./site_update.zip /
