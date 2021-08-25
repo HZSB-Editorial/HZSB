@@ -16,13 +16,23 @@ module.exports = {
             { text: '制度和理念批判', link: '/system/' }
         ]
     },
-    plugins: {
-        '@vuepress/medium-zoom': {},
-        '@vuepress/back-to-top': {},
-        '@vuepress/last-updated': {
-            transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
-        }
-    },
+    plugins: [
+        '@vuepress/medium-zoom',
+        '@vuepress/back-to-top',
+        [
+            '@vuepress/last-updated',
+            {
+                transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
+            }
+        ],
+        [
+            'md-enhance',
+            {
+                footnote: true
+            }
+        ]
+        
+    ],
     head: [
         ['link', { rel: 'icon', href: `https://hzsb-1301539318.file.myqcloud.com/logo.png` }],
         [
