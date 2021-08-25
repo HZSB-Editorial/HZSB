@@ -20,7 +20,7 @@ jobs:
           yarn docs:build
           
       - name: Zip the Dist
-        run: zip -r -1 site_update.zip ./dist/
+        run: zip -r -1 site_update.zip ./dist/*
       
       - name: Install coscmd
         run: sudo pip install coscmd
