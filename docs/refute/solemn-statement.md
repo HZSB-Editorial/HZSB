@@ -11,6 +11,64 @@
 
 A 类有 28 条，占比 93.33%；B 类有 2 条，占比 6.67% 。
 
+::: details 衡水中学、衡水第一中学、衡水中学实验学校发表过的“严正声明”
+
+*编者注：此表由编者整理各校区官网的“严正声明”，未收集公众号的声明。文章作者的数据是由学校公众号而来。官网的声明与公众号大部分重复，但也有少部分声明仅发到了公众号上或官网上。*
+
+### 河北衡水中学官网
+
+ - [http://www.hbhszx.cn/#/article?id=58930](http://www.hbhszx.cn/#/article?id=58930)
+ - [http://www.hbhszx.cn/#/article?id=58847](http://www.hbhszx.cn/#/article?id=58847)
+ - [http://www.hbhszx.cn/#/article?id=57325](http://www.hbhszx.cn/#/article?id=57325)
+ - [http://www.hbhszx.cn/#/article?id=57184](http://www.hbhszx.cn/#/article?id=57184)
+ - [http://www.hbhszx.cn/#/article?id=56586](http://www.hbhszx.cn/#/article?id=56586)
+ - [http://www.hbhszx.cn/#/article?id=56197](http://www.hbhszx.cn/#/article?id=56197)
+ - [http://www.hbhszx.cn/#/article?id=56922](http://www.hbhszx.cn/#/article?id=56922)
+ - [http://www.hbhszx.cn/#/article?id=55909](http://www.hbhszx.cn/#/article?id=55909)
+ - [http://www.hbhszx.cn/#/article?id=55390](http://www.hbhszx.cn/#/article?id=55390)
+ - [http://www.hbhszx.cn/#/article?id=55293](http://www.hbhszx.cn/#/article?id=55293)
+ - [http://www.hbhszx.cn/#/article?id=55292](http://www.hbhszx.cn/#/article?id=55292)
+ - [http://www.hbhszx.cn/#/article?id=53444](http://www.hbhszx.cn/#/article?id=53444)
+ - [http://www.hbhszx.cn/#/article?id=47000](http://www.hbhszx.cn/#/article?id=47000)
+
+### 衡水第一中学官网
+
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=5744](http://www.hengshuidiyizhongxue.com/#/article?id=5744)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=5051](http://www.hengshuidiyizhongxue.com/#/article?id=5051)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=4979](http://www.hengshuidiyizhongxue.com/#/article?id=4979)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=4776](http://www.hengshuidiyizhongxue.com/#/article?id=4776)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=4567](http://www.hengshuidiyizhongxue.com/#/article?id=4567)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=4188](http://www.hengshuidiyizhongxue.com/#/article?id=4188)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=4172](http://www.hengshuidiyizhongxue.com/#/article?id=4172)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=1007](http://www.hengshuidiyizhongxue.com/#/article?id=1007)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=3669](http://www.hengshuidiyizhongxue.com/#/article?id=3669)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=3355](http://www.hengshuidiyizhongxue.com/#/article?id=3355)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=3332](http://www.hengshuidiyizhongxue.com/#/article?id=3332)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=3057](http://www.hengshuidiyizhongxue.com/#/article?id=3057) *
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=3023](http://www.hengshuidiyizhongxue.com/#/article?id=3023)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=2978](http://www.hengshuidiyizhongxue.com/#/article?id=2978)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=2967](http://www.hengshuidiyizhongxue.com/#/article?id=2967)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=2322](http://www.hengshuidiyizhongxue.com/#/article?id=2322)
+ - [http://www.hengshuidiyizhongxue.com/#/article?id=2081](http://www.hengshuidiyizhongxue.com/#/article?id=2081)
+
+加星号的文章疑似与下文的“问鼎高考辅导学校”有关
+
+### 衡水中学实验学校官网
+
+ - [http://www.hszxsyxx.com/#/article?id=4826](http://www.hszxsyxx.com/#/article?id=4826)
+ - [http://www.hszxsyxx.com/#/article?id=4621](http://www.hszxsyxx.com/#/article?id=4621)
+ - [http://www.hszxsyxx.com/#/article?id=4306](http://www.hszxsyxx.com/#/article?id=4306)
+ - [http://www.hszxsyxx.com/#/article?id=4098](http://www.hszxsyxx.com/#/article?id=4098)
+ - [http://www.hszxsyxx.com/#/article?id=2228](http://www.hszxsyxx.com/#/article?id=2228) *
+ - [http://www.hszxsyxx.com/#/article?id=2225](http://www.hszxsyxx.com/#/article?id=2225) *
+ - [http://www.hszxsyxx.com/#/article?id=2219](http://www.hszxsyxx.com/#/article?id=2219) *
+ - [http://www.hszxsyxx.com/#/article?id=2215](http://www.hszxsyxx.com/#/article?id=2215) *
+ - [http://www.hszxsyxx.com/#/article?id=386](http://www.hszxsyxx.com/#/article?id=386)
+
+加星号的四篇内容相同
+
+:::
+
 ## “严正声明”里说的都对吗
 
 2021 年 7 月 25 日，河北衡水中学发布[“严正声明”](https://mp.weixin.qq.com/s/awHJ0KPN6eosUqOhZwQ_cA
@@ -19,6 +77,8 @@ A 类有 28 条，占比 93.33%；B 类有 2 条，占比 6.67% 。
 最直接的证据来自于第一高中教育集团对纽交所提供的招股书，详情可以观看财才说[《衡水中学发辟谣声明真实吗？教育的资本化到底有何不可？》](https://www.bilibili.com/video/BV1Xg411j7NQ)的视频。
 
 或许是迫于舆论压力，2021 年 8 月，该公告已撤销，被发布者清除[^1]，然而网络上多家媒体对之的报道却依然不会褪色。
+
+![7月25日发表的严正声明](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/725.png)
 
 然而，这只是大众只要仔细研究便可以发现的阴暗面。在学生眼里，有着最全面的观察学校的视角，自然可以看到更多。
 
@@ -38,11 +98,19 @@ A 类有 28 条，占比 93.33%；B 类有 2 条，占比 6.67% 。
  - [问鼎教育科技河北有限公司](http://www.zyhzedu.cn/index.php?m=Home&c=Index&a=index)
  - [衡水第一中学问鼎高考辅导学校](http://www.zyhzedu.com.cn/)
 
+![问鼎教育官网介绍截图](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/jianjie.png)
+
 浏览过后，首先可以肯定了的是，这又一次与衡中“严正声明”中所谓的**未与任何机构开展合作**产生了矛盾，“严正声明”底下的丑陋已经十分明显，但是我们需要考虑的更多，我们需要想，衡中何必要如此掩盖这样的事实，倘若这群学生以及机构获得好成绩，又可以成为衡中宣传的资本，但是衡中却发了大大小小 28 个“严正声明”去澄清，想必其背后必然有一些肮脏。
+
+![招收2017年复读生的截图](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/2017fudu.png)
 
 简单浏览问鼎教育官网可以发现，问鼎教育全名为**衡水第一中学**问鼎高考辅导学校，官网也给出了社会信用代码 91131106MA07XA8CXG ，问鼎教育招生复读生给出的**学校地址是衡水中学实验学校**，招生时间是 **2017 年**，这也就能解释清楚 **1703 班**的来源了。
 
+![招收艺考生、天津班的截图](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/yishutianjin.png)
+
 问鼎教育的服务范围不仅仅局限于部分复读生，可以看到，直到 2019 年，问鼎教育还在全省甚至全国范围内招收插班生，艺术生，甚至直接明目张胆的表示**招收天津班，北京班等为高考移民服务的专项**，这时候我们也逐渐明白，衡中真正想隐藏的是在京津招收异地高考生的资本行径。
+
+![问鼎教育科技有限公司介绍截屏](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/wendingkeji-jieshao.png)
 
 在问鼎教育官网的公司介绍中有这么一句话：问鼎教育科技河北有限公司成立后，**经衡水第一中学的同意**，我公司可在全国范围内开设衡水第一中学分校。并在甘肃、宁夏、陕西地区成为衡水第一中学分校的**独家代理公司**。开设线下实体学校的同时，以衡水第一中学现有补习及高中教育课程为基础开发衡水第一中学线上课程，涵盖衡水第一中学高考补习课程及普通高中教育（高一至高三）课程。
 
