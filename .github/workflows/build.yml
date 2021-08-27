@@ -16,7 +16,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          npm install
+          npm i
           npm docs:build
       
       - name: Install coscmd
