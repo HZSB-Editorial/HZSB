@@ -16,13 +16,8 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          yarn
-          yarn docs:build
-          
-#       - name: Zip the Dist
-#         run: |
-#           cd dist
-#           zip -r -1 site_update.zip ./*
+          npm install
+          npm docs:build
       
       - name: Install coscmd
         run: sudo pip install coscmd
@@ -34,9 +29,6 @@ jobs:
           BUCKET: hzsb-site-1301539318
           REGION: ap-hongkong
         run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
-        
-#       - name: Upload
-#         run: coscmd upload --delete -f ./dist/site_update.zip /
 
       - name: Upload
         run: coscmd upload -rf --delete -f dist/ /
