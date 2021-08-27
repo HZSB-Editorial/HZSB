@@ -17,7 +17,7 @@ Markdown 是一种轻量级标记语言。它允许人们使用易读易写的�
 
 我们推荐您使用 [Cmd Markdown](https://www.zybuluo.com/mdeditor) 作为线上编辑器，在这里您也可以学到 Markdown 有关语法。
 
-当编写完您的文章，请以 `.md` 格式导出文件。
+当您编写完文章，请以 `.md` 格式导出文件。
 
 #### 标题上下空出两行
 
