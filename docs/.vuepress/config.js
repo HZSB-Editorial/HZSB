@@ -25,6 +25,7 @@ module.exports = {
         }
     },
     themeConfig: {
+        sidebarDepth: 0,
         sidebar: [
             {
                 title: '大事记录',
@@ -78,8 +79,13 @@ module.exports = {
             {
                 footnote: true
             }
-        ]
-
+        ],
+        [
+            "@mr-hope/sitemap",
+            {
+                hostname: 'https://hzsb.info'
+            },
+        ],
     ],
     head: [
         ['meta', { charset: 'utf-8' }],
