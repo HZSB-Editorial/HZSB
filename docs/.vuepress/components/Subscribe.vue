@@ -52,6 +52,7 @@ export default {
 </script>
 
 <style scoped>
+
 button {
     cursor: text;
     height: 2.8rem;
@@ -93,5 +94,18 @@ input{
 input:focus {
     cursor: auto;
     border-color: #094;
+}
+@media (prefers-color-scheme: dark) {
+    button {
+        color: white;
+        background-color: #18191a
+    }
+    button:hover {
+        color: black;
+    }
+    input {
+        color: white;
+        background-color: #18191a;
+    }
 }
 </style>

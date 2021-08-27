@@ -17,6 +17,13 @@ module.exports = {
     title: 'HZSB',
     description: '关于衡中：曝光、记录、驳斥、批判。',
     dest: './dist',
+    locales: {
+        '/': {
+            lang: 'zh-CN',
+            title: 'HZSB',
+            description: '关于衡中：曝光、记录、驳斥、批判。'
+        }
+    },
     themeConfig: {
         sidebar: [
             {
@@ -72,13 +79,13 @@ module.exports = {
                 footnote: true
             }
         ]
-        
+
     ],
     head: [
         ['meta', { charset: 'utf-8' }],
-        ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1'}],
-        ['link', { rel: 'preconnect', href: 'https://hzsb-1301539318.file.myqcloud.com'}],
-        ['link', { rel: 'preconnect', href: 'https://hm.baidu.com'}],
+        ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
+        ['link', { rel: 'preconnect', href: 'https://hzsb-1301539318.file.myqcloud.com' }],
+        ['link', { rel: 'preconnect', href: 'https://hm.baidu.com' }],
         ['link', { rel: 'icon', href: `https://hzsb-1301539318.file.myqcloud.com/logo.png` }],
         [
             "script",
