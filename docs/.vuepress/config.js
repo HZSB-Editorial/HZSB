@@ -1,11 +1,50 @@
 const moment = require('moment-timezone')
 moment.tz.setDefault("Asia/Shanghai")
 moment.locale('zh-cn')
+
+const fs = require('fs')
+const path = require('path')
+
+function getList(name) {
+    return fs
+        .readdirSync(path.resolve(__dirname, '../' + name + '/'))
+        .filter(e => e !== 'README.md')
+        .map(filename => '/' + name + '/' + filename.slice(0, -3))
+        .sort()
+}
+
 module.exports = {
     title: 'HZSB',
     description: '关于衡中：曝光、记录、驳斥、批判。',
     dest: './dist',
     themeConfig: {
+        sidebar: [
+            {
+                title: '大事记录',
+                path: '/event/',
+                children: getList('event')
+            },
+            {
+                title: '学校生活',
+                path: '/campus/',
+                children: getList('campus')
+            },
+            {
+                title: '官方洗白文批驳',
+                path: '/refute/',
+                children: getList('refute')
+            },
+            {
+                title: '制度和理念批判',
+                path: '/system/',
+                children: getList('system')
+            },
+            {
+                title: '分校见闻',
+                path: '/branch/',
+                children: getList('branch')
+            }
+        ],
         lastUpdated: '上次更新',
         displayAllHeaders: true,
         nav: [
@@ -14,7 +53,8 @@ module.exports = {
             { text: '学校生活', link: '/campus/' },
             { text: '官方洗白文批驳', link: '/refute/' },
             { text: '制度和理念批判', link: '/system/' },
-            { text: '分校见闻', link: '/branch/' }
+            { text: '分校见闻', link: '/branch/' },
+            { text: '投稿', link: '/contribute.html' }
         ]
     },
     plugins: [
@@ -35,6 +75,10 @@ module.exports = {
         
     ],
     head: [
+        ['meta', { charset: 'utf-8' }],
+        ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1'}],
+        ['link', { rel: 'preconnect', href: 'https://hzsb-1301539318.file.myqcloud.com'}],
+        ['link', { rel: 'preconnect', href: 'https://hm.baidu.com'}],
         ['link', { rel: 'icon', href: `https://hzsb-1301539318.file.myqcloud.com/logo.png` }],
         [
             "script",
