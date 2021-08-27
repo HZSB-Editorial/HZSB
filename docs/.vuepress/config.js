@@ -13,7 +13,8 @@ module.exports = {
             { text: '大事记录', link: '/event/' },
             { text: '学校生活', link: '/campus/' },
             { text: '官方洗白文批驳', link: '/refute/' },
-            { text: '制度和理念批判', link: '/system/' }
+            { text: '制度和理念批判', link: '/system/' },
+            { text: '分校见闻', link: '/branch/' }
         ]
     },
     plugins: [
