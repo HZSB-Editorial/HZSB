@@ -2,7 +2,7 @@
     <div>
         <p :style="{color: tipdata.color}">{{ tipdata.msg }}</p>
         <input v-show="!success" autocomplete="off" type="email" placeholder="您的邮箱" v-model="email" @keydown.enter="subscribe"/>
-        <button v-show="!success" @click="subscribe" :disabled="disabled">确定</button>
+        <button v-show="!success" @click="subscribe" :disabled="disabled">订阅！</button>
         <!-- <button v-show="success" @click="goback">返回上一页</button> -->
     </div>
 </template>
@@ -65,6 +65,7 @@ button {
     transition: all 0.2s ease;
     background-size: 1rem;
     background-color: white;
+    margin-bottom: 10px;
 }
 button:hover {
     background: rgb(230, 230, 230);
