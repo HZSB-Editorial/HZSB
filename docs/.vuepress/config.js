@@ -81,9 +81,10 @@ module.exports = {
             }
         ],
         [
-            "@mr-hope/sitemap",
+            "sitemap",
             {
-                hostname: 'https://hzsb.info'
+                hostname: 'https://hzsb.info',
+                dateFormatter: e => e.split(' ').slice(0, 2).join(' ')
             },
         ],
     ],
