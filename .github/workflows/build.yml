@@ -18,8 +18,8 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          yarn --prefer-offline --registry https://registry.npm.taobao.org/
-          yarn docs:build
+          npm install
+          npm run docs:build
       
       - name: Install coscmd
         run: sudo pip install coscmd
