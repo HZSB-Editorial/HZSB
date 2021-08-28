@@ -58,6 +58,7 @@ button {
     transition: all 0.2s ease;
     background-size: 1rem;
     background-color: white;
+    margin-bottom: 10px;
 }
 button:hover {
     background: rgb(230, 230, 230);
@@ -66,24 +67,16 @@ button:active {
     background: #094;
     color: white;
 }
-input{
-    margin: 5px 0px;
-    cursor: text;
-    height: 2rem;
-    color: #4e6e8e;
-    display: inline-block;
-    border: 1px solid #cfd4db;
-    border-radius: 2rem;
-    font-size: 0.9rem;
-    line-height: 2rem;
-    padding: 0.5rem 1rem 0.5rem 1rem;
-    outline: none;
-    width: calc(100% - 2rem);
-    transition: all 0.2s ease;
-    background-size: 1rem;
-}
-input:focus {
-    cursor: auto;
-    border-color: #094;
+@media (prefers-color-scheme: dark) {
+    button {
+        color: white;
+        background-color: #18191a
+    }
+    button:hover {
+        color: black;
+    }
+    button:active {
+        color: white;
+    }
 }
 </style>
