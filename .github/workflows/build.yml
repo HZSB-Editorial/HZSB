@@ -18,7 +18,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          yarn --prefer-offline
+          yarn --prefer-offline --registry https://registry.npm.taobao.org/
           yarn docs:build
       
       - name: Install coscmd
