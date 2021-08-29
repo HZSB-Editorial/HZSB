@@ -84,7 +84,7 @@ module.exports = {
             "sitemap",
             {
                 hostname: 'https://hzsb.info',
-                dateFormatter: e => e.split(' ').slice(0, 2).join(' ')
+                dateFormatter: e => e.split(' ')[0]
             },
         ],
     ],
