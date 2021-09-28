@@ -25,6 +25,7 @@ module.exports = {
         }
     },
     themeConfig: {
+        // logo: 'https://hzsb-1301539318.file.myqcloud.com/logo.png',
         sidebarDepth: 0,
         sidebar: [
             {
@@ -51,17 +52,28 @@ module.exports = {
                 title: '分校见闻',
                 path: '/branch/',
                 children: getList('branch')
+            },
+            {
+                title: '教师黑名单',
+                path: '/blacklist/'
             }
         ],
         lastUpdated: '上次更新',
         displayAllHeaders: true,
         nav: [
             { text: '首页', link: '/' },
-            { text: '大事记录', link: '/event/' },
-            { text: '学校生活', link: '/campus/' },
-            { text: '官方洗白文批驳', link: '/refute/' },
-            { text: '制度和理念批判', link: '/system/' },
-            { text: '分校见闻', link: '/branch/' },
+            { text: '本站概况和阅读指引', link: '/introduction' },
+            {
+                text: '五大板块',
+                items: [
+                    { text: '大事记录', link: '/event/' },
+                    { text: '学校生活', link: '/campus/' },
+                    { text: '官方洗白文批驳', link: '/refute/' },
+                    { text: '制度和理念批判', link: '/system/' },
+                    { text: '分校见闻', link: '/branch/' },
+                ]
+            },
+            { text: '教师黑名单', link: '/blacklist/' },
             { text: '投稿', link: '/contribute.html' }
         ]
     },
