@@ -55,7 +55,8 @@ module.exports = {
             },
             {
                 title: '教师黑名单',
-                path: '/blacklist/'
+                path: '/blacklist/',
+                children: getList('blacklist')
             }
         ],
         lastUpdated: '上次更新',

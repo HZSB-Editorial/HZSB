@@ -4,4 +4,10 @@
 
 **注意：本名单只记录目前在衡中工作的，师德败坏的教师。已经明确从衡中离职的教师，不在此列。**
 
-<p style="color:grey">目前此板块还没有文章，立即<router-link to="../contribute">投稿</router-link>。</p>
+<div v-for="i in $article()">
+    <p>
+        <router-link :to="i.path">{{ i.title }}</router-link>
+    </p>
+</div>
+
+<p style="color:grey" v-if="$article().length === 0">目前此板块还没有文章，立即<router-link to="../contribute">投稿</router-link>。</p>
