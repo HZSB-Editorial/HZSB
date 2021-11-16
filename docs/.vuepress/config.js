@@ -25,7 +25,7 @@ module.exports = {
         }
     },
     themeConfig: {
-        // logo: 'https://hzsb-1301539318.file.myqcloud.com/logo.png',
+        // logo: '/img/logo.png',
         sidebarDepth: 0,
         sidebar: [
             {
@@ -104,9 +104,9 @@ module.exports = {
     head: [
         ['meta', { charset: 'utf-8' }],
         ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-        ['link', { rel: 'preconnect', href: 'https://hzsb-1301539318.file.myqcloud.com' }],
+        ['link', { rel: 'preconnect', href: '/img' }],
         ['link', { rel: 'preconnect', href: 'https://hm.baidu.com' }],
-        ['link', { rel: 'icon', href: `https://hzsb-1301539318.file.myqcloud.com/logo.png` }],
+        ['link', { rel: 'icon', href: `/img/logo.png` }],
         [
             "script",
             {},

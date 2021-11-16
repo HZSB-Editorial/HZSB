@@ -78,7 +78,7 @@ A 类有 28 条，占比 93.33%；B 类有 2 条，占比 6.67% 。
 
 或许是迫于舆论压力，2021 年 8 月，该公告已撤销，被发布者清除[^1]，然而网络上多家媒体对之的报道却依然不会褪色。
 
-![7月25日发表的严正声明](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/725.png)
+![7月25日发表的严正声明](/img/docs/refute/solemn-statement/725.png)
 
 然而，这只是大众只要仔细研究便可以发现的阴暗面。在学生眼里，有着最全面的观察学校的视角，自然可以看到更多。
 
@@ -98,19 +98,19 @@ A 类有 28 条，占比 93.33%；B 类有 2 条，占比 6.67% 。
  - [问鼎教育科技河北有限公司](http://www.zyhzedu.cn/index.php?m=Home&c=Index&a=index)
  - [衡水第一中学问鼎高考辅导学校](http://www.zyhzedu.com.cn/)
 
-![问鼎教育官网介绍截图](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/jianjie.png)
+![问鼎教育官网介绍截图](/img/docs/refute/solemn-statement/jianjie.png)
 
 浏览过后，首先可以肯定了的是，这又一次与衡中“严正声明”中所谓的**未与任何机构开展合作**产生了矛盾，“严正声明”底下的丑陋已经十分明显，但是我们需要考虑的更多，我们需要想，衡中何必要如此掩盖这样的事实，倘若这群学生以及机构获得好成绩，又可以成为衡中宣传的资本，但是衡中却发了大大小小 28 个“严正声明”去澄清，想必其背后必然有一些肮脏。
 
-![招收2017年复读生的截图](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/2017fudu.png)
+![招收2017年复读生的截图](/img/docs/refute/solemn-statement/2017fudu.png)
 
 简单浏览问鼎教育官网可以发现，问鼎教育全名为**衡水第一中学**问鼎高考辅导学校，官网也给出了社会信用代码 91131106MA07XA8CXG ，问鼎教育招生复读生给出的**学校地址是衡水中学实验学校**，招生时间是 **2017 年**，这也就能解释清楚 **1703 班**的来源了。
 
-![招收艺考生、天津班的截图](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/yishutianjin.png)
+![招收艺考生、天津班的截图](/img/docs/refute/solemn-statement/yishutianjin.png)
 
 问鼎教育的服务范围不仅仅局限于部分复读生，可以看到，直到 2019 年，问鼎教育还在全省甚至全国范围内招收插班生，艺术生，甚至直接明目张胆的表示**招收天津班，北京班等为高考移民服务的专项**，这时候我们也逐渐明白，衡中真正想隐藏的是在京津招收异地高考生的资本行径。
 
-![问鼎教育科技有限公司介绍截屏](https://hzsb-1301539318.file.myqcloud.com/docs/refute/solemn-statement/wendingkeji-jieshao.png)
+![问鼎教育科技有限公司介绍截屏](/img/docs/refute/solemn-statement/wendingkeji-jieshao.png)
 
 在问鼎教育官网的公司介绍中有这么一句话：问鼎教育科技河北有限公司成立后，**经衡水第一中学的同意**，我公司可在全国范围内开设衡水第一中学分校。并在甘肃、宁夏、陕西地区成为衡水第一中学分校的**独家代理公司**。开设线下实体学校的同时，以衡水第一中学现有补习及高中教育课程为基础开发衡水第一中学线上课程，涵盖衡水第一中学高考补习课程及普通高中教育（高一至高三）课程。
 

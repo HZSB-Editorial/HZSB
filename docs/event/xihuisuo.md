@@ -25,12 +25,12 @@
 
 [衡水中学举行十佳班长竞选暨践行六知六爱六荣教育动员大会](https://mp.weixin.qq.com/s/52LkCrVsxLPEDDykSVfRSA)
 
-![报道1](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/a014e46e4fa41f9ad48f53861f6b6023.jpg)
-![报道2](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/3cd5766311bb49b9d2493bcfd0ff3717.png)
-![报道3](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/26499c55cbaddd8f98af4a92f1244851.png)
-![报道4](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/b44893c6e2a4d7c3b7470cbfd8eba167.png)
-![报道5](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/112073bdf48a3fb3980035743ef4c2ae.png)
-![报道6](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/932889c1c87fd5a2dda72d710f1d3307.png)
+![报道1](/img/docs/event/xihuisuo/a014e46e4fa41f9ad48f53861f6b6023.jpg)
+![报道2](/img/docs/event/xihuisuo/3cd5766311bb49b9d2493bcfd0ff3717.png)
+![报道3](/img/docs/event/xihuisuo/26499c55cbaddd8f98af4a92f1244851.png)
+![报道4](/img/docs/event/xihuisuo/b44893c6e2a4d7c3b7470cbfd8eba167.png)
+![报道5](/img/docs/event/xihuisuo/112073bdf48a3fb3980035743ef4c2ae.png)
+![报道6](/img/docs/event/xihuisuo/932889c1c87fd5a2dda72d710f1d3307.png)
 
 :::
 
@@ -54,7 +54,7 @@
 
 对此，衡水共青团，卓越名校学术联盟等官方微信公众号8月20日发布的一篇文章《衡水中学郗校长被网暴的前2000多天！》（不同公众号的文章标题有小差别，但内容相同）表示，该决定是出于“组织需要”。（下图为该文章部分截图）
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/e48432cc484c0ac20340d8bf4b8ba904.png)
+![](/img/docs/event/xihuisuo/e48432cc484c0ac20340d8bf4b8ba904.png)
 
 ### 衡中就读，西藏高考
 
@@ -62,13 +62,13 @@
 
 据成绩单推断，郗某某高三上学期期末前离开衡水中学。
 
-![成绩单](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/e1792b8149d819c920c8063140d4191a.png)
+![成绩单](/img/docs/event/xihuisuo/e1792b8149d819c920c8063140d4191a.png)
 
 以下为[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14099164)对此事报道的截图：
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/1.png)
+![](/img/docs/event/xihuisuo/1.png)
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/2.jpg)
+![](/img/docs/event/xihuisuo/2.jpg)
 
 ## 校内成绩异常模拟
 
@@ -84,7 +84,7 @@
 
 下图为郗某某历次考试的成绩单。
 
-![成绩单](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/e1792b8149d819c920c8063140d4191a.png)
+![成绩单](/img/docs/event/xihuisuo/e1792b8149d819c920c8063140d4191a.png)
 
 由图看出，其子从高三五调开始，其全科成绩突然全部变成了 0 分，而年级名次却达到了年级一二百名。
 
@@ -106,7 +106,7 @@
 
 下图为《西藏自治区2021年社会考生“强基计划”综合素质评价档案名单公示》部分名单。
 
-![名单](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/d12a7eac0b33b99d0a49b911311b46be.png)
+![名单](/img/docs/event/xihuisuo/d12a7eac0b33b99d0a49b911311b46be.png)
 
 ## 迅速传播
 
@@ -118,15 +118,15 @@
 
 [知乎有关此事的问答](https://www.zhihu.com/question/480751828)
 
-![百度热搜](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/c11463c14288131f2b7d012997b4079a.jpg)
+![百度热搜](/img/docs/event/xihuisuo/c11463c14288131f2b7d012997b4079a.jpg)
 
 *百度热搜*
 
-![微博热搜](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/f41726d64aa666bac3866a3b88c7d69e.jpg)
+![微博热搜](/img/docs/event/xihuisuo/f41726d64aa666bac3866a3b88c7d69e.jpg)
 
 *8月22日0时新浪微博热搜*
 
-![知乎热榜](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/53f5b6ec267d011364ddc043266364e1.jpg)
+![知乎热榜](/img/docs/event/xihuisuo/53f5b6ec267d011364ddc043266364e1.jpg)
 
 *知乎热榜*
 
@@ -134,11 +134,11 @@
 
 该话题一度位于新浪微博热搜榜前列。**然而在8月19日早晨8点左右，该热搜消失。据查证，不仅热搜前十中没有，热搜前五十也没有**。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/be37468c71f07d4da1cc651fd14ae96e.jpg)
+![](/img/docs/event/xihuisuo/be37468c71f07d4da1cc651fd14ae96e.jpg)
 
 8月19日上午9点左右, 该问题被移出知乎热榜。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/863ea74ad390732579e8996b2c242ef7.jpg)
+![](/img/docs/event/xihuisuo/863ea74ad390732579e8996b2c242ef7.jpg)
 
 ## 官方回应
 
@@ -146,13 +146,13 @@
 
 然而在发布后一段时间，衡水共青团官方微信公众号自行删除了该文章。
 
-![删除](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/1625ea48f4b3bd50ec2b3bcf56cb2322.jpg)
+![删除](/img/docs/event/xihuisuo/1625ea48f4b3bd50ec2b3bcf56cb2322.jpg)
 
 [卓越名校学术联盟的回应](https://mp.weixin.qq.com/s/dCjAEOjqRZGeyO3eH7JxKA)
 
 ::: details 衡水共青团的回应（现已被删除）
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/651065c4ae0e9615fbd53bf786e19d94.png)
+![](/img/docs/event/xihuisuo/651065c4ae0e9615fbd53bf786e19d94.png)
 
 :::
 
@@ -170,30 +170,30 @@
 
 首先，通过“学生照片显示”功能，发现最多只能查询到915班的信息（见下图）。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/9632de452f90386d90fbb475695f2c60.png)
+![](/img/docs/event/xihuisuo/9632de452f90386d90fbb475695f2c60.png)
 
 同时，在使用“学生信息查询”功能查询时，也是这个情况（见下图，最多只能查询到915班）。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/64200090c62899da4c64ec79556c6a6b.jpg)
+![](/img/docs/event/xihuisuo/64200090c62899da4c64ec79556c6a6b.jpg)
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/c4f058e52fc4e22e5c3474f1390af80a.png)
+![](/img/docs/event/xihuisuo/c4f058e52fc4e22e5c3474f1390af80a.png)
 
 无法查询到**整个918班**（见下图）。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/522dd43acf4ffcbfe917b436b019c431.png)
+![](/img/docs/event/xihuisuo/522dd43acf4ffcbfe917b436b019c431.png)
 
 然而，在使用学号遍历**每个学生**的时候，却可以查询到918班的学生（见下图）。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/a5d830f25208d9a171c0c6abe53db129.jpg)
+![](/img/docs/event/xihuisuo/a5d830f25208d9a171c0c6abe53db129.jpg)
 
 将918班学生整理如下（见下图）：
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/83cf492d7d14d3e7153ac4ff24e3946d.png)
+![](/img/docs/event/xihuisuo/83cf492d7d14d3e7153ac4ff24e3946d.png)
 
 可以发现该班级只有23人，与衡中正常班级容量相差极大。
 
 同时，笔者又发现，原先查询首页上的“天津班”选项也被删除（见下图）。
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/xihuisuo/9d8597ba845527aa964c211367cc6bad.png)
+![](/img/docs/event/xihuisuo/9d8597ba845527aa964c211367cc6bad.png)
 
 :::

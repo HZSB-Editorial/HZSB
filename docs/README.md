@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://hzsb-1301539318.file.myqcloud.com/logo.png
+heroImage: /img/logo.png
 heroText: HZSB
 tagline: 关于衡中：曝光、记录、驳斥、批判。
 actionText: 查看文章

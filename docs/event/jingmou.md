@@ -14,13 +14,13 @@
 
 高二下学期，景某某向学生泄露考点, 怂恿学生李某考试作弊。*目的为获得个人业绩*（存疑）。
 
-![学校处理景某某相关文件](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/3771f62aeb222b88a51e201d640bbed7.png)
+![学校处理景某某相关文件](/img/docs/event/jingmou/3771f62aeb222b88a51e201d640bbed7.png)
 
 *学校处理景某某相关文件*
 
-![被怂恿的学生写的证明材料1](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/adc3b31502eacd5387689bb9c90a1f2a.png)
+![被怂恿的学生写的证明材料1](/img/docs/event/jingmou/adc3b31502eacd5387689bb9c90a1f2a.png)
 
-![被怂恿的学生写的证明材料2](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/ffaac3f66c1a080159424709e58af670.png)
+![被怂恿的学生写的证明材料2](/img/docs/event/jingmou/ffaac3f66c1a080159424709e58af670.png)
 
 *被怂恿的学生写的证明材料*
 
@@ -32,19 +32,19 @@
  - > 我去给他班送资料，敲门进去，他正在讲课，把我骂出来了。
  - 某天化学晚自习，与一学生因不交积累本发生口角，甚至揪住学生衣领发生肢体冲突。辱骂声整个楼道听得见。
 
-![学校相关文件](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/ac76f05b31e5a036c9d9070bcfeac4a9.png)
+![学校相关文件](/img/docs/event/jingmou/ac76f05b31e5a036c9d9070bcfeac4a9.png)
 
 *学校相关文件*
 
 ### 其他事实及材料
 
-![工作态度不端正，与其他老师发生冲突](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/254cf4f13d347d9cb568eacd30e25663.png)
+![工作态度不端正，与其他老师发生冲突](/img/docs/event/jingmou/254cf4f13d347d9cb568eacd30e25663.png)
 
 *工作态度不端正，与其他老师发生冲突*
 
-![问题综述](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/ad1d4a43fac59f2e15872a33a1404b5e.png)
+![问题综述](/img/docs/event/jingmou/ad1d4a43fac59f2e15872a33a1404b5e.png)
 
-![](https://hzsb-1301539318.file.myqcloud.com/docs/event/jingmou/80f81b7d2056c4324f287ecbe5db47ad.png)
+![](/img/docs/event/jingmou/80f81b7d2056c4324f287ecbe5db47ad.png)
 
 *学校相关文件*
 
