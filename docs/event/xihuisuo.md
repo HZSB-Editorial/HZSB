@@ -60,10 +60,6 @@
 
 郗某某高中大部分时间在衡水中学就读，在西藏参加高考。
 
-据成绩单推断，郗某某高三上学期期末前离开衡水中学。
-
-![成绩单](/img/docs/event/xihuisuo/e1792b8149d819c920c8063140d4191a.png)
-
 以下为[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14099164)对此事报道的截图：
 
 ![](/img/docs/event/xihuisuo/1.png)
