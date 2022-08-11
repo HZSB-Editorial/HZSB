@@ -32,3 +32,4 @@ jobs:
 
       - name: Upload
         run: coscmd upload -rs --delete -f dist/ /
+
