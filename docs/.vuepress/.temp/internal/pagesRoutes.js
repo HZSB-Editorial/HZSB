@@ -8,6 +8,7 @@ export const pagesRoutes = [
   ["v-6f274a6b","/blacklist/",{"title":"教师黑名单"},["/blacklist/index.html","/blacklist/README.md"]],
   ["v-ea6dbbd2","/campus/",{"title":"学校生活"},["/campus/index.html","/campus/README.md"]],
   ["v-346b5502","/campus/hz-prison-life.html",{"title":"衡中的监狱式生活"},["/campus/hz-prison-life","/campus/hz-prison-life.md"]],
+  ["v-723b01b4","/branch/",{"title":"分校见闻"},["/branch/index.html","/branch/README.md"]],
   ["v-7ca4f50e","/event/",{"title":"大事记录"},["/event/index.html","/event/README.md"]],
   ["v-494855c9","/event/xihuisuo.html",{"title":"郗会锁儿子高考移民事件"},["/event/xihuisuo","/event/xihuisuo.md"]],
   ["v-1cd6cb87","/event/zhanghuanhuan.html",{"title":"教师张欢欢骚扰猥亵女学生事件"},["/event/zhanghuanhuan","/event/zhanghuanhuan.md"]],
@@ -17,6 +18,5 @@ export const pagesRoutes = [
   ["v-027746c7","/system/",{"title":"制度和理念批判"},["/system/index.html","/system/README.md"]],
   ["v-64bdced2","/system/choices-of-students-under-hengzhong-mode.html",{"title":"缺失的反抗——衡中体制下学生集体的选择"},["/system/choices-of-students-under-hengzhong-mode","/system/choices-of-students-under-hengzhong-mode.md"]],
   ["v-69af2c30","/system/the-social-roots-of-hengzhong-mode.html",{"title":"衡中模式的社会根源"},["/system/the-social-roots-of-hengzhong-mode","/system/the-social-roots-of-hengzhong-mode.md"]],
-  ["v-723b01b4","/branch/",{"title":"分校见闻"},["/branch/index.html","/branch/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

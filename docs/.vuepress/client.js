@@ -25,5 +25,5 @@ export default defineClientConfig({
     },
     setup() { },
     layouts: {},
-    rootComponents: [Subscribe, Unsubscribe],
+    rootComponents: [],
 })

@@ -17,6 +17,8 @@ export const pagesData = {
   "v-ea6dbbd2": () => import(/* webpackChunkName: "v-ea6dbbd2" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/campus/index.html.js").then(({ data }) => data),
   // path: /campus/hz-prison-life.html
   "v-346b5502": () => import(/* webpackChunkName: "v-346b5502" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/campus/hz-prison-life.html.js").then(({ data }) => data),
+  // path: /branch/
+  "v-723b01b4": () => import(/* webpackChunkName: "v-723b01b4" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/branch/index.html.js").then(({ data }) => data),
   // path: /event/
   "v-7ca4f50e": () => import(/* webpackChunkName: "v-7ca4f50e" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/event/index.html.js").then(({ data }) => data),
   // path: /event/xihuisuo.html
@@ -35,8 +37,6 @@ export const pagesData = {
   "v-64bdced2": () => import(/* webpackChunkName: "v-64bdced2" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/system/choices-of-students-under-hengzhong-mode.html.js").then(({ data }) => data),
   // path: /system/the-social-roots-of-hengzhong-mode.html
   "v-69af2c30": () => import(/* webpackChunkName: "v-69af2c30" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/system/the-social-roots-of-hengzhong-mode.html.js").then(({ data }) => data),
-  // path: /branch/
-  "v-723b01b4": () => import(/* webpackChunkName: "v-723b01b4" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/branch/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

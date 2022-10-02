@@ -19,6 +19,8 @@ export const pagesComponents = {
   "v-ea6dbbd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-ea6dbbd2" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/campus/index.html.vue")),
   // path: /campus/hz-prison-life.html
   "v-346b5502": defineAsyncComponent(() => import(/* webpackChunkName: "v-346b5502" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/campus/hz-prison-life.html.vue")),
+  // path: /branch/
+  "v-723b01b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-723b01b4" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/branch/index.html.vue")),
   // path: /event/
   "v-7ca4f50e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ca4f50e" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/event/index.html.vue")),
   // path: /event/xihuisuo.html
@@ -37,8 +39,6 @@ export const pagesComponents = {
   "v-64bdced2": defineAsyncComponent(() => import(/* webpackChunkName: "v-64bdced2" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/system/choices-of-students-under-hengzhong-mode.html.vue")),
   // path: /system/the-social-roots-of-hengzhong-mode.html
   "v-69af2c30": defineAsyncComponent(() => import(/* webpackChunkName: "v-69af2c30" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/system/the-social-roots-of-hengzhong-mode.html.vue")),
-  // path: /branch/
-  "v-723b01b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-723b01b4" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/branch/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/junical/Code/HZSB/docs/.vuepress/.temp/pages/404.html.vue")),
 }
