@@ -4,6 +4,9 @@ moment.locale('zh-cn')
 import fs from 'fs'
 import path from 'path'
 import { defaultTheme } from '@vuepress/theme-default'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { getDirname } from '@vuepress/utils'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 function getList(name) {
     return fs
@@ -98,12 +101,6 @@ export default {
     }),
     plugins: [
         // [
-        //     '@vuepress/last-updatedz',
-        //     {
-        //         transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
-        //     }
-        // ],
-        // [
         //     'md-enhance',
         //     {
         //         footnote: true
@@ -116,6 +113,12 @@ export default {
         //         dateFormatter: e => e.split(' ')[0]
         //     },
         // ],
+        registerComponentsPlugin({
+            componentsDir: path.resolve(getDirname(import.meta.url), './components'),
+        }),
+        searchPlugin({
+            // 配置项
+          }),
     ],
     head: [
         ['meta', { charset: 'utf-8' }],

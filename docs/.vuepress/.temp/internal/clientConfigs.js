@@ -5,7 +5,9 @@ import clientConfig3 from '/Users/junical/Code/HZSB/node_modules/@vuepress/plugi
 import clientConfig4 from '/Users/junical/Code/HZSB/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig5 from '/Users/junical/Code/HZSB/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from '/Users/junical/Code/HZSB/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from '/Users/junical/Code/HZSB/docs/.vuepress/client.js'
+import clientConfig7 from '/Users/junical/Code/HZSB/docs/.vuepress/.temp/register-components/clientConfig.3771eefa.js'
+import clientConfig8 from '/Users/junical/Code/HZSB/node_modules/@vuepress/plugin-search/lib/client/config.js'
+import clientConfig9 from '/Users/junical/Code/HZSB/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -16,4 +18,6 @@ export const clientConfigs = [
   clientConfig5,
   clientConfig6,
   clientConfig7,
+  clientConfig8,
+  clientConfig9,
 ]
