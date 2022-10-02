@@ -1,5 +1,5 @@
 <template><div><h1 id="投稿前须知" tabindex="-1"><a class="header-anchor" href="#投稿前须知" aria-hidden="true">#</a> 投稿前须知</h1>
-<nav class="table-of-contents"><ul><li><router-link to="#排版">排版</router-link></li><li><router-link to="#格式">格式</router-link><ul><li><router-link to="#markdown-指南">Markdown 指南</router-link></li><li><router-link to="#word-指南">Word 指南</router-link></li><li><router-link to="#其他">其他</router-link></li></ul></li><li><router-link to="#图片">图片</router-link></li><li><router-link to="#创作原则">创作原则</router-link></li><li><router-link to="#投稿">投稿</router-link></li></ul></nav>
+<!-- [[toc]] -->
 <h2 id="排版" tabindex="-1"><a class="header-anchor" href="#排版" aria-hidden="true">#</a> 排版</h2>
 <p>建议遵循 <RouterLink to="/chinese-copywriting-guidelines.html">中文文案排版指北</RouterLink></p>
 <h2 id="格式" tabindex="-1"><a class="header-anchor" href="#格式" aria-hidden="true">#</a> 格式</h2>

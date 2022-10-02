@@ -29,6 +29,9 @@ export default {
     },
     theme: defaultTheme({
         // logo: '/img/logo.png',
+        repo:'https://github.com/ShuJun-Junical/HZSB',
+        editLink:true,
+        editLinkText:'在 Github 上编辑此页',
         sidebarDepth: 0,
         sidebar: [
             {

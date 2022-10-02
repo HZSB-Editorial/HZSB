@@ -1,6 +1,11 @@
+---
+sidebar: auto
+sidebarDepth: 3
+---
+
 # 投稿前须知
 
-[[toc]]
+<!-- [[toc]] -->
 
 ## 排版
 
