@@ -15,7 +15,7 @@ export default defineClientConfig({
         app.config.globalProperties.$article = function (name) {
             const result = []
             const reg = new RegExp(this.$route.path + ".+\\.html")
-            for (const i of this.$site.pages.sort((a, b) => a.title < b.title ? -1 : 1)) {
+            for (const i of PAGES.sort((a, b) => a.title < b.title ? -1 : 1)) {
                 if (reg.test(i.path)) {
                     result.push(i)
                 }

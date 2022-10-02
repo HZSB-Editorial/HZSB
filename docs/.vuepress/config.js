@@ -77,7 +77,7 @@ export default {
             `责任担当、激情实干、团结精进、和谐共生。`,
             `梦想力、激情力、吃苦力、抗压力、专注力、凝聚力、自律力、坚持力加一个好习惯。`
         ],
-        backToHome:'返回首页',
+        backToHome: '返回首页',
         displayAllHeaders: true,
         navbar: [
             { text: '首页', link: '/' },
@@ -144,5 +144,10 @@ export default {
             'script',
             { src: 'https://unpkg.com/tippy.js@6' }
         ]
-    ]
+    ],
+    define(app, isServer) {
+        return {
+            PAGES: app.pages
+        }
+    }
 }
