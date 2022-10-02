@@ -1,9 +1,9 @@
-const moment = require('moment-timezone')
+import moment from 'moment-timezone'
 moment.tz.setDefault("Asia/Shanghai")
 moment.locale('zh-cn')
-
-const fs = require('fs')
-const path = require('path')
+import fs from 'fs'
+import path from 'path'
+import { defaultTheme } from '@vuepress/theme-default'
 
 function getList(name) {
     return fs
@@ -13,7 +13,7 @@ function getList(name) {
         .sort()
 }
 
-module.exports = {
+export default {
     title: 'HZSB',
     description: '关于衡中：曝光、记录、驳斥、批判。',
     dest: './dist',
@@ -24,7 +24,7 @@ module.exports = {
             description: '关于衡中：曝光、记录、驳斥、批判。'
         }
     },
-    themeConfig: {
+    theme: defaultTheme({
         // logo: '/img/logo.png',
         sidebarDepth: 0,
         sidebar: [
@@ -59,14 +59,15 @@ module.exports = {
                 children: getList('blacklist')
             }
         ],
-        lastUpdated: '上次更新',
+        lastUpdated: true,
+        lastUpdatedText: '上次更新',
         displayAllHeaders: true,
-        nav: [
+        navbar: [
             { text: '首页', link: '/' },
             { text: '本站概况和阅读指引', link: '/introduction' },
             {
                 text: '五大板块',
-                items: [
+                children: [
                     { text: '大事记录', link: '/event/' },
                     { text: '学校生活', link: '/campus/' },
                     { text: '官方洗白文批驳', link: '/refute/' },
@@ -77,29 +78,27 @@ module.exports = {
             { text: '教师黑名单', link: '/blacklist/' },
             { text: '投稿', link: '/contribute.html' }
         ]
-    },
+    }),
     plugins: [
-        '@vuepress/medium-zoom',
-        '@vuepress/back-to-top',
-        [
-            '@vuepress/last-updated',
-            {
-                transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
-            }
-        ],
-        [
-            'md-enhance',
-            {
-                footnote: true
-            }
-        ],
-        [
-            "sitemap",
-            {
-                hostname: 'https://hzsb.info',
-                dateFormatter: e => e.split(' ')[0]
-            },
-        ],
+        // [
+        //     '@vuepress/last-updatedz',
+        //     {
+        //         transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
+        //     }
+        // ],
+        // [
+        //     'md-enhance',
+        //     {
+        //         footnote: true
+        //     }
+        // ],
+        // [
+        //     "sitemap",
+        //     {
+        //         hostname: 'https://hzsb.info',
+        //         dateFormatter: e => e.split(' ')[0]
+        //     },
+        // ],
     ],
     head: [
         ['meta', { charset: 'utf-8' }],
