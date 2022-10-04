@@ -1,9 +1,12 @@
-const moment = require('moment-timezone')
+import moment from 'moment-timezone'
 moment.tz.setDefault("Asia/Shanghai")
 moment.locale('zh-cn')
-
-const fs = require('fs')
-const path = require('path')
+import fs from 'fs'
+import path from 'path'
+import { defaultTheme } from '@vuepress/theme-default'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { getDirname } from '@vuepress/utils'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 function getList(name) {
     return fs
@@ -13,7 +16,7 @@ function getList(name) {
         .sort()
 }
 
-module.exports = {
+export default {
     title: 'HZSB',
     description: '关于衡中：曝光、记录、驳斥、批判。',
     dest: './dist',
@@ -24,49 +27,70 @@ module.exports = {
             description: '关于衡中：曝光、记录、驳斥、批判。'
         }
     },
-    themeConfig: {
+    theme: defaultTheme({
         // logo: '/img/logo.png',
+        repo:'https://github.com/ShuJun-Junical/HZSB',
+        editLink:true,
+        editLinkText:'在 Github 上编辑此页',
         sidebarDepth: 0,
         sidebar: [
             {
-                title: '大事记录',
-                path: '/event/',
+                text: '大事记录',
+                link: '/event/',
                 children: getList('event')
             },
             {
-                title: '学校生活',
-                path: '/campus/',
+                text: '学校生活',
+                link: '/campus/',
                 children: getList('campus')
             },
             {
-                title: '官方洗白文批驳',
-                path: '/refute/',
+                text: '官方洗白文批驳',
+                link: '/refute/',
                 children: getList('refute')
             },
             {
-                title: '制度和理念批判',
-                path: '/system/',
+                text: '制度和理念批判',
+                link: '/system/',
                 children: getList('system')
             },
             {
-                title: '分校见闻',
-                path: '/branch/',
+                text: '分校见闻',
+                link: '/branch/',
                 children: getList('branch')
             },
             {
-                title: '教师黑名单',
-                path: '/blacklist/',
+                text: '教师黑名单',
+                link: '/blacklist/',
                 children: getList('blacklist')
             }
         ],
-        lastUpdated: '上次更新',
+        lastUpdated: true,
+        lastUpdatedText: '上次更新',
+        contributors: false,
+        tip: '提示',
+        notFound: [
+            `警告！你与此网站非触中！`,
+            `朋友可相逢，高山永分离。`,
+            `勤学如春起之苗，不见其增日有所长；辍学如磨刀之石，不见其损日有所亏。——陶渊明`,
+            `宇宙之大，粒子之微，火箭之速，化工之巧，地球之变，生物之谜，日月之繁，无处不用数学。——华罗庚`,
+            `忙碌的人只会受到一个恶魔的引诱，而懒惰的人则会受到一群恶魔的引诱。——汤玛斯富勒`,
+            `我爱遗传，遗传使我快乐！`,
+            `自助自主完成了吗？`,
+            `等着吧，我会让你见证我的奋斗和奇迹！`,
+            `自习考试化，考试高考化，高考平时化。`,
+            `知我爱我荣我，知家爱家荣家，知师爱师荣师，知班爱班荣班，知校爱校荣校，知国爱国荣国。`,
+            `责任担当、激情实干、团结精进、和谐共生。`,
+            `梦想力、激情力、吃苦力、抗压力、专注力、凝聚力、自律力、坚持力加一个好习惯。`
+        ],
+        backToHome: '返回首页',
         displayAllHeaders: true,
-        nav: [
+        navbar: [
             { text: '首页', link: '/' },
             { text: '本站概况和阅读指引', link: '/introduction' },
             {
                 text: '五大板块',
-                items: [
+                children: [
                     { text: '大事记录', link: '/event/' },
                     { text: '学校生活', link: '/campus/' },
                     { text: '官方洗白文批驳', link: '/refute/' },
@@ -77,29 +101,27 @@ module.exports = {
             { text: '教师黑名单', link: '/blacklist/' },
             { text: '投稿', link: '/contribute.html' }
         ]
-    },
+    }),
     plugins: [
-        '@vuepress/medium-zoom',
-        '@vuepress/back-to-top',
-        [
-            '@vuepress/last-updated',
-            {
-                transformer: timestamp => moment(timestamp).format('YYYY-MM-DD H:mm:ss a')
-            }
-        ],
-        [
-            'md-enhance',
-            {
-                footnote: true
-            }
-        ],
-        [
-            "sitemap",
-            {
-                hostname: 'https://hzsb.info',
-                dateFormatter: e => e.split(' ')[0]
-            },
-        ],
+        // [
+        //     'md-enhance',
+        //     {
+        //         footnote: true
+        //     }
+        // ],
+        // [
+        //     "sitemap",
+        //     {
+        //         hostname: 'https://hzsb.info',
+        //         dateFormatter: e => e.split(' ')[0]
+        //     },
+        // ],
+        registerComponentsPlugin({
+            componentsDir: path.resolve(getDirname(import.meta.url), './components'),
+        }),
+        searchPlugin({
+            // 配置项
+          }),
     ],
     head: [
         ['meta', { charset: 'utf-8' }],
@@ -107,19 +129,19 @@ module.exports = {
         ['link', { rel: 'preconnect', href: '/img' }],
         ['link', { rel: 'preconnect', href: 'https://hm.baidu.com' }],
         ['link', { rel: 'icon', href: `/img/logo.png` }],
-        [
-            "script",
-            {},
-            `
-            var _hmt = _hmt || [];
-            (function() {
-            var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?295f787038b935ba15d6349af63e92c6";
-            var s = document.getElementsByTagName("script")[0]; 
-            s.parentNode.insertBefore(hm, s);
-            })();
-            `
-        ],
+        // [
+        //     "script",
+        //     {},
+        //     `
+        //     var _hmt = _hmt || [];
+        //     (function() {
+        //     var hm = document.createElement("script");
+        //     hm.src = "https://hm.baidu.com/hm.js?295f787038b935ba15d6349af63e92c6";
+        //     var s = document.getElementsByTagName("script")[0]; 
+        //     s.parentNode.insertBefore(hm, s);
+        //     })();
+        //     `
+        // ],
         [
             'script',
             { src: 'https://unpkg.com/@popperjs/core@2' }
@@ -128,5 +150,10 @@ module.exports = {
             'script',
             { src: 'https://unpkg.com/tippy.js@6' }
         ]
-    ]
+    ],
+    define(app, isServer) {
+        return {
+            PAGES: app.pages
+        }
+    }
 }

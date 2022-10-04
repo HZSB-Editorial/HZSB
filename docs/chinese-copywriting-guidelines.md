@@ -1,3 +1,8 @@
+---
+sidebar: auto
+sidebarDepth: 3
+---
+
 # 中文文案排版指北
 
 原文来源于 [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)，本文有改动
