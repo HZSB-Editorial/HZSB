@@ -162,5 +162,8 @@ export default {
         md.renderer.rules.paragraph_open = (tokens,idx,options,env,self)=>{
             return '<p class="hzsb-passage-paragraph">'
         }
+        md.renderer.rules.paragraph_close = (tokens,idx,options,env,self)=>{
+            return '</p>'
+        }
     }
 }
