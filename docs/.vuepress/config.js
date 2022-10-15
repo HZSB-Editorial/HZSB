@@ -7,6 +7,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { getDirname } from '@vuepress/utils'
 import { searchPlugin } from '@vuepress/plugin-search'
+import  markdownItFootnote from 'markdown-it-footnote'
 
 function getList(name) {
     return fs
@@ -129,19 +130,19 @@ export default {
         ['link', { rel: 'preconnect', href: '/img' }],
         ['link', { rel: 'preconnect', href: 'https://hm.baidu.com' }],
         ['link', { rel: 'icon', href: `/img/logo.png` }],
-        // [
-        //     "script",
-        //     {},
-        //     `
-        //     var _hmt = _hmt || [];
-        //     (function() {
-        //     var hm = document.createElement("script");
-        //     hm.src = "https://hm.baidu.com/hm.js?295f787038b935ba15d6349af63e92c6";
-        //     var s = document.getElementsByTagName("script")[0]; 
-        //     s.parentNode.insertBefore(hm, s);
-        //     })();
-        //     `
-        // ],
+        [
+            "script",
+            {},
+            `
+            var _hmt = _hmt || [];
+            (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?295f787038b935ba15d6349af63e92c6";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+            })();
+            `
+        ],
         [
             'script',
             { src: 'https://unpkg.com/@popperjs/core@2' }
@@ -154,6 +155,12 @@ export default {
     define(app, isServer) {
         return {
             PAGES: app.pages
+        }
+    },
+    extendsMarkdown:(md)=>{
+        md.use(markdownItFootnote);
+        md.renderer.rules.paragraph_open = (tokens,idx,options,env,self)=>{
+            return '<p class="hzsb-passage-paragraph">'
         }
     }
 }

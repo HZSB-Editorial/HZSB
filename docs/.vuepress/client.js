@@ -12,7 +12,7 @@ export default defineClientConfig({
             }
             next();
         });
-        app.config.globalProperties.$article = function (name) {
+        app.config.globalProperties.$article = function () {
             const result = []
             const reg = new RegExp(this.$route.path + ".+\\.html")
             for (const i of PAGES.sort((a, b) => a.title < b.title ? -1 : 1)) {
@@ -24,6 +24,7 @@ export default defineClientConfig({
         }
     },
     setup() { },
-    layouts: {},
+    layouts: {
+    },
     rootComponents: [],
 })
