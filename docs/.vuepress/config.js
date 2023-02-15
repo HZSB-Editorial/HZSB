@@ -125,6 +125,48 @@ export default {
     docsearchPlugin({
       ...privateConfig.docSearch.algolia,
       placeholder: "搜索全站文章...",
+      translations:{
+        button: {
+          buttonText: '搜索',
+          buttonAriaLabel: '搜索',
+        },
+        modal: {
+          searchBox: {
+            resetButtonTitle: '清空搜索',
+            resetButtonAriaLabel: '清空搜索',
+            cancelButtonText: '取消',
+            cancelButtonAriaLabel: '取消',
+          },
+          startScreen: {
+            recentSearchesTitle: '最近搜索',
+            noRecentSearchesText: '没有最近搜索记录',
+            saveRecentSearchButtonTitle: '保存本次搜索',
+            removeRecentSearchButtonTitle: '删除本条记录',
+            favoriteSearchesTitle: '收藏栏',
+            removeFavoriteSearchButtonTitle: '从收藏栏删除',
+          },
+          errorScreen: {
+            titleText: '无法获取搜索结果',
+            helpText: '请检查你的网络。',
+          },
+          footer: {
+            selectText: '选择',
+            selectKeyAriaLabel: '回车键',
+            navigateText: '上下移动焦点',
+            navigateUpKeyAriaLabel: '方向键上',
+            navigateDownKeyAriaLabel: '方向键下',
+            closeText: '关闭',
+            closeKeyAriaLabel: 'ESC 键',
+            searchByText: '搜索服务提供商',
+          },
+          noResultsScreen: {
+            noResultsText: '无结果',
+            suggestedQueryText: '尝试搜索以下内容',
+            reportMissingResultsText: '搜索结果不全？',
+            reportMissingResultsLinkText: '向我们报告',
+          },
+        },
+      }
     }),
   ],
   head: [
